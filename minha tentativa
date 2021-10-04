@@ -1,1 +1,12 @@
-input ("qual o seu nome?")
+nome = input("qual o seu nome? ")
+print("Olá", nome)
+
+idade = input("Qual a sua idade?")
+
+if int(idade) > 18:
+   print("Parabéns, você é um adulto")
+else:
+   print("Você é uma criança")
+   print("melhor ir brincar na rua")
+
+
