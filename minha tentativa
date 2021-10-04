@@ -9,4 +9,10 @@ else:
    print("Você é uma criança")
    print("melhor ir brincar na rua")
 
+dirigir = input("Você dirige? (S/N)")
+
+if dirigir == "S":
+   
+   
+
 
