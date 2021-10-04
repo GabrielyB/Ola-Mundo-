@@ -20,3 +20,10 @@ else:
 
    else:
       print("Se você ainda nao os terminou, volte a estudar")
+
+exterior = input("Você já morou ou mora fora do brasil?")
+if exterior == "S":
+   print("Que legal que você tenha tido essa oportunidade")
+      
+else:
+   print("A maioria dos brasileiros nunca morou fora mesmo, não fique triste") 
